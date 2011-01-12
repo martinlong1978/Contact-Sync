@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jsr305.jar"/>
+	<classpathentry kind="lib" path="lib/moyocore.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-base.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-client-meta.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-client.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-contacts-meta.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-contacts.jar"/>
+	<classpathentry kind="lib" path="lib/gdata-core.jar"/>
+	<classpathentry kind="lib" path="lib/google-collect.jar"/>
+	<classpathentry kind="lib" path="lib/joc.jar"/>
+	<classpathentry kind="lib" path="lib/sync.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

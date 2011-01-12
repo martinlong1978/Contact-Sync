@@ -1,0 +1,1 @@
+start javaw -classpath "./*" uk.co.longhome.ContactSync
